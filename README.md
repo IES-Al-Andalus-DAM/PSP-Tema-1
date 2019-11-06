@@ -2,7 +2,7 @@
 ## Ejemplos Presentaciones
 Estos ejemplos son los que aparecen referidos en las presentaciones adicionaoles a los apuntes.
 
-Los proyctos del directorio Socket también aparecec referidos en un apartado de los apuntes.
+Los proyectos del directorio Socket también aparecen referidos en un apartado de los apuntes.
 
 ## Lanzador
 Este ejemplo muestra el uso de ``Runtime.getRuntime().exec()`` y de la clase *ProcessBuilder*. Están las siguientes variaciones:

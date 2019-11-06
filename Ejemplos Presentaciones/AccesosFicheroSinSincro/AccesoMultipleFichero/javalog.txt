@@ -1,0 +1,23 @@
+P0 Error al crear el fichero
+P0 Error al leer del fichero
+P0 Error al escribir en el fichero
+Proceso0: Creando el fichero.
+Proceso0: Valor leído del fichero: 0
+Proceso0: Valor escrito en el fichero: 1
+Proceso0: Valor leído del fichero: 1
+Proceso0: Valor escrito en el fichero: 2
+Proceso0: Valor leído del fichero: 2
+Proceso0: Valor escrito en el fichero: 3
+Proceso0: Valor leído del fichero: 3
+Proceso0: Valor escrito en el fichero: 4
+P0 Error al leer del fichero
+Proceso0: Valor escrito en el fichero: 1
+Proceso0: Valor leído del fichero: 1
+Proceso0: Valor escrito en el fichero: 2
+Proceso0: Valor leído del fichero: 2
+Proceso0: Valor escrito en el fichero: 3
+Proceso0: Creando el fichero.
+Proceso0: Valor leído del fichero: 0
+Proceso0: Valor escrito en el fichero: 1
+Proceso0: Valor leído del fichero: 1
+Proceso0: Valor escrito en el fichero: 2

@@ -1,0 +1,68 @@
+Proceso0: Valor leído del fichero: 2
+Proceso0: Valor escrito en el fichero: 3
+Proceso0: Valor leído del fichero: 3
+Proceso0: Valor escrito en el fichero: 4
+Creado el proceso 0
+Creado el proceso 1
+Creado el proceso 2
+Creado el proceso 3
+Creado el proceso 4
+Creado el proceso 5
+Creado el proceso 6
+Creado el proceso 7
+Creado el proceso 8
+Creado el proceso 9
+Creado el proceso 10
+Creado el proceso 11
+Creado el proceso 12
+Creado el proceso 13
+Creado el proceso 14
+Proceso1: Creando el fichero.
+Proceso1: Valor leído del fichero: 0
+Proceso1: Valor escrito en el fichero: 1
+Creado el proceso 15
+Creado el proceso 16
+Proceso4: Valor leído del fichero: 1
+Proceso4: Valor escrito en el fichero: 2
+Creado el proceso 17
+Proceso3: Valor leído del fichero: 2Creado el proceso 18
+
+Proceso3: Valor escrito en el fichero: 3
+Creado el proceso 19
+Proceso2: Valor leído del fichero: 3
+P5 Error al leer del ficheroProceso2: Valor escrito en el fichero: 4
+
+Proceso5: Valor escrito en el fichero: 1
+Creado el proceso 20
+Proceso8: Valor leído del fichero: 1
+Proceso8: Valor escrito en el fichero: 2
+Proceso0: Valor leído del fichero: 4
+Proceso0: Valor escrito en el fichero: 5
+Proceso6: Valor leído del fichero: 5
+Proceso6: Valor escrito en el fichero: 6
+Proceso9: Valor leído del fichero: 6
+Proceso9: Valor escrito en el fichero: 7
+Proceso10: Valor leído del fichero: 7
+Proceso10: Valor escrito en el fichero: 8
+Proceso14: Valor leído del fichero: 8
+Proceso14: Valor escrito en el fichero: 9
+P7 Error al leer del fichero
+Proceso7: Valor escrito en el fichero: 1
+Proceso13: Valor leído del fichero: 1
+Proceso13: Valor escrito en el fichero: 2
+Proceso12: Valor leído del fichero: 2
+Proceso12: Valor escrito en el fichero: 3
+Proceso18: Valor leído del fichero: 3
+Proceso11: Valor leído del fichero: 3
+Proceso11: Valor escrito en el fichero: 4
+Proceso18: Valor escrito en el fichero: 4
+Proceso15: Valor leído del fichero: 4
+Proceso15: Valor escrito en el fichero: 5
+Proceso16: Valor leído del fichero: 5
+Proceso16: Valor escrito en el fichero: 6
+Proceso17: Valor leído del fichero: 6
+Proceso19: Valor leído del fichero: 6
+Proceso17: Valor escrito en el fichero: 7
+Proceso19: Valor escrito en el fichero: 7
+Proceso20: Valor leído del fichero: 7
+Proceso20: Valor escrito en el fichero: 8

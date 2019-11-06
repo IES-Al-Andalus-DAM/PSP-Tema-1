@@ -1,4 +1,7 @@
 # PSP-Tema-1
+## Ejemplos Presentaciones
+Estos ejemplos son los que aparecen referidos en las presentaciones adicionaoles a los apuntes.
+
 ## Lanzador
 Este ejemplo muestra el uso de ``Runtime.getRuntime().exec()`` y de la clase *ProcessBuilder*. Están las siguientes variaciones:
 

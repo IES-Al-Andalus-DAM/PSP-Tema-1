@@ -60,25 +60,6 @@ public class LanzadorFrame extends javax.swing.JFrame {
 
     private void bntLanzarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bntLanzarActionPerformed
         // TODO add your handling code here:
-        Process nuevoProceso; //Definimos una variable de tipo Process
-        try{
-            //Obtenemos el nombre del SO
-            String osName = System.getProperty("os.name");
-            
-            if (osName.toUpperCase().contains("WIN")){ //Windows
-                nuevoProceso = Runtime.getRuntime().exec("C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe");
-            }else{                                      //Linux
-              nuevoProceso = Runtime.getRuntime().exec("java -jar "+
-              "/home/usuario/NetBeansProjects/Editor/dist/DocumentEditor.jar");
-            }
-           
-        }catch (SecurityException ex){
-            System.out.println("Ha ocurrido un error de Seguridad."+
-                    "No se ha podido crear el proceso por falta de permisos.");
-        }catch (Exception ex){
-            System.out.println("Ha ocurrido un error, descripción: "+
-                    ex.toString());
-        }
     }//GEN-LAST:event_bntLanzarActionPerformed
 
     /**

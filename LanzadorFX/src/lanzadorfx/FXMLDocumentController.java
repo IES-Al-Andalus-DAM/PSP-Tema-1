@@ -24,14 +24,6 @@ public class FXMLDocumentController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        ProcessBuilder pb;
-        try {
-                pb = new ProcessBuilder("C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe");
-                pb.start();
-        } catch (Exception e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-        }
     }
     
     @Override
